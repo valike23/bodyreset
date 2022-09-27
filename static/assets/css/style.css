@@ -413,11 +413,11 @@ label {
     background-image: none;
 }
 .special-btn {
-    background: #8BCD2B;
+    background: #13853f;
     color: #fff;
 }
 .special-transparent i {
-    background-color: #8BCD2B;
+    background-color: #13853f;
     background-image: none;
 }
 
@@ -477,7 +477,7 @@ label {
 }
 .special-scroll.scroll-top {
     background-image: none;
-    background-color: #8BCD2B;
+    background-color: #13853f;
 }
 
 /* 2. Header */
@@ -918,7 +918,7 @@ label {
 .special-header .navbar-wrap > ul > li:hover > a,
 .special-header .navbar-wrap > ul > li .submenu li.active > a,
 .special-header .navbar-wrap > ul > li .submenu li:hover > a {
-    color: #8BCD2B;
+    color: #13853f;
 }
 .special-header .header-action > ul li.offcanvas-btn a i {
     background-image: none;
@@ -927,20 +927,20 @@ label {
 }
 .sticky-menu.special-header .header-shop-cart a span {
     background-image: none;
-    background-color: #8BCD2B;
+    background-color: #13853f;
     color: #fff;
 }
 .special-header .navbar-wrap > ul > li .submenu li a::before,
 .special-header .header-shop-cart a span,
 .special-header .header-action > ul li.offcanvas-btn a {
-    background: #8BCD2B;
+    background: #13853f;
 }
 .special-header .header-shop-cart a span {
     color: #fff;
 }
 .special-off-canvas .oc-newsletter form button:hover,
 .special-header .header-shop-cart .minicart .checkout-link a {
-    background: #8BCD2B;
+    background: #13853f;
 }
 .special-header .header-shop-cart .minicart .checkout-link a.black-bg {
     background: #222;
@@ -952,19 +952,19 @@ label {
 .special-header .header-shop-cart .minicart .del-icon > a:hover,
 .special-header .minicart .cart-content h4 a:hover,
 .special-header.sticky-menu .header-action > ul > li:hover > a {
-    color: #8BCD2B;
+    color: #13853f;
 }
 .special-off-canvas.sidebar-off-canvas .contact-info h4.title::after,
 .special-off-canvas .oc-newsletter h4.title::after {
     background-image: none;
-    background-color: #8BCD2B;
+    background-color: #13853f;
 }
 .special-search .search-btn,
 .special-search .search-close {
-    color: #8BCD2B;
+    color: #13853f;
 }
 .special-search .search-form input {
-    border-bottom: 1px solid #8BCD2B;
+    border-bottom: 1px solid #13853f;
 }
 
 /* 3. Mobile-menu */
@@ -1848,9 +1848,9 @@ label {
 }
 .special-banner-area .banner-content .sub-title,
 .section-title.special-title .sub-title {
-    color: #8BCD2B;
+    color: #13853f;
     background-image: none;
-    -webkit-text-fill-color: #8BCD2B;
+    -webkit-text-fill-color: #13853f;
 }
 .special-banner-area .banner-content .sub-title::before,
 .section-title.special-title .sub-title::before,
@@ -1858,14 +1858,14 @@ label {
     background: #bcee51;
 }
 .special-title .title span {
-    color: #8BCD2B;
+    color: #13853f;
 }
 .special-title p {
     margin: 15px 0 0;
 }
 .special-banner-area .solid-btn i {
     background-image: none;
-    background-color: #8BCD2B;
+    background-color: #13853f;
 }
 .protein-banner .banner-shape li:nth-child(5n+3) {
     right: 14%;
@@ -1960,7 +1960,7 @@ label {
     top: 12px;
     width: 50px;
     height: 2px;
-    background: #8BCD2B;
+    background: #13853f;
 }
 .brand-title .title::after {
     left: auto;
@@ -2168,7 +2168,7 @@ label {
 }
 .special-features-area .features-item::after {
     background-image: none;
-    background: #8BCD2B;
+    background: #13853f;
 }
 
 /* 10. Choose-area */
@@ -2296,7 +2296,7 @@ label {
     box-shadow: 0px 8px 16px 0px rgba(128, 188, 0, 0.15);
     font-size: 30px;
     background-image: none !important;
-    background-color: #8BCD2B;
+    background-color: #13853f;
     color: #fff;
     margin-left: 0;
     margin-right: 25px;
@@ -2591,7 +2591,7 @@ label {
     text-align: center;
     background: #fff;
     border-radius: 50%;
-    color: #8BCD2B;
+    color: #13853f;
     font-size: 20px;
     margin: 0 auto;
     z-index: 1;
@@ -2610,7 +2610,7 @@ label {
     color: #222;
 }
 .special-video-area .video-content .btn:hover i {
-    background: #8BCD2B;
+    background: #13853f;
     color: #fff;
 }
 
@@ -2735,7 +2735,7 @@ label {
     font-family: unset;
     margin: 0 0;
     flex: 0  0;
-    background: #8BCD2B;
+    background: #13853f;
     line-height: 0;
     opacity: 1;
     z-index: 1;
@@ -2809,7 +2809,7 @@ label {
     background-clip: unset;
     -webkit-background-clip: unset;
     -webkit-text-fill-color: unset;
-    color: #8BCD2B;
+    color: #13853f;
 }
 .special-fact-area .fact-item-three {
     border: 1px solid #f6f6f6;
@@ -2833,7 +2833,7 @@ label {
 }
 .formula-content ul li i {
     font-size: 14px;
-    background: #8BCD2B;
+    background: #13853f;
     color: #fff;
     padding: 3px;
     border-radius: 50%;
@@ -3079,7 +3079,7 @@ label {
 }
 .special-faq .faq-wrapper .accordion > .card > .card-header button::before {
     background-image: none;
-    background-color: #8BCD2B;
+    background-color: #13853f;
     box-shadow: 0px 8px 16px 0px rgb(128 188 0 / 15%);
 }
 .special-faq {
@@ -3333,21 +3333,21 @@ label {
 .pricing__box .price-savings .save {
     font-size: 30px;
     margin-bottom: 10px;
-    color: #8BCD2B;
+    color: #13853f;
 }
 .pricing__box .price-savings > span {
     font-size: 22px;
     display: block;
     line-height: 1;
-    color: #8BCD2B;
+    color: #13853f;
     font-weight: 500;
     margin: 0 0 20px;
 }
 .pricing__box .pricing-btn a {
     display: block;
-    background: #8BCD2B;
+    background: #13853f;
     color: #fff;
-    border: 2px solid #8BCD2B;
+    border: 2px solid #13853f;
     line-height: 1;
     font-size: 25px;
     font-weight: 700;
@@ -3364,7 +3364,7 @@ label {
 }
 .pricing__box .pricing-btn a:hover {
     background: transparent;
-    color: #8BCD2B;
+    color: #13853f;
 }
 .pricing__box .bottom-img img {
     max-width: 100%;
@@ -3384,15 +3384,15 @@ label {
 .pricing-item:hover .pricing-price > span,
 .pricing-item.active .pricing-price .price,
 .pricing-item.active .pricing-price > span {
-    color: #8BCD2B;
+    color: #13853f;
 }
 .pricing-item.active .pricing__box,
 .pricing-item:hover .pricing__box {
-    border-color: #8BCD2B;
+    border-color: #13853f;
 }
 .pricing-item.active .pricing-title .title,
 .pricing-item:hover .pricing-title .title {
-    background: #8BCD2B;
+    background: #13853f;
     color: #fff;
 }
 .pricing__box .pricing-img {
@@ -3476,7 +3476,7 @@ label {
 }
 .health-leaders-item .hl-info p {
     margin-bottom: 0;
-    color: #8bcd2b;
+    color: #13853f;
     font-weight: 500;
 }
 
@@ -4115,8 +4115,8 @@ label {
 }
 .special-shop .shop-details-price .price {
     background-image: none;
-    -webkit-text-fill-color: #8bcd2b;
-    color: #8bcd2b;
+    -webkit-text-fill-color: #13853f;
+    color: #13853f;
 }
 
 /* Customer Review */
@@ -4894,11 +4894,11 @@ label {
 }
 .special-cta .cta-content .make-order {
     background-image: none;
-    -webkit-text-fill-color: #8BCD2B;
+    -webkit-text-fill-color: #13853f;
 }
 .special-cta .cta-content .make-order::before {
     background-image: none;
-    background-color: #8BCD2B;
+    background-color: #13853f;
 }
 .protein-cta .cta-content .make-order::before {
     background-image: none;
@@ -5365,17 +5365,17 @@ label {
     color: #00b0d5;
 }
 .special-blog .blog-overlay-tag > a {
-    color: #8BCD2B;
+    color: #13853f;
 }
 .special-blog .blog-overlay-tag > a:hover {
     color: #fff;
 }
 .special-blog .blog-overlay-tag > a::before {
 	background-image: none;
-    background: #8BCD2B;
+    background: #13853f;
 }
 .special-blog .blog-post-item:hover .read-more {
-    color: #8BCD2B;
+    color: #13853f;
 }
 
 /* Blog--sidebar */
@@ -6390,14 +6390,14 @@ label {
 }
 
 .special-footer .fw-link > ul > li > a:hover {
-    color: #8BCD2B;
+    color: #13853f;
 }
 .special-footer .fw-blog-post ul li .content .date {
     background-image: none;
-    -webkit-text-fill-color: #8BCD2B;
+    -webkit-text-fill-color: #13853f;
 }
 .special-footer .footer-quick-link ul li a:hover {
-    color: #8BCD2B;
+    color: #13853f;
 }
 
 /* 27. Preloader */
@@ -6561,7 +6561,7 @@ label {
     animation: loader-inner 1s cubic-bezier(.42, .61, .58, .41) infinite;
 }
 .loader-five .loader-outter {
-    border: 4px solid #8BCD2B;
+    border: 4px solid #13853f;
     border-left-color: transparent;
     border-bottom: 0;
     width: 100%;
@@ -6571,7 +6571,7 @@ label {
     animation: loader-outter 1s cubic-bezier(.42, .61, .58, .41) infinite;
 }
 .loader-five .loader-inner {
-    border: 4px solid #8BCD2B;
+    border: 4px solid #13853f;
     border-radius: 50%;
     width: 40px;
     height: 40px;

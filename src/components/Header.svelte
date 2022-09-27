@@ -12,7 +12,7 @@
                     <div class="menu-wrap">
                         <nav class="menu-nav show">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/special_logo.png" alt="Logo"></a>
+                                <a href="/"><img src="assets/img/logo/bg.png" alt="Logo"></a>
                             </div>
                             <div class="navbar-wrap main-menu d-none d-lg-flex">
                                 <ul class="navigation text-center" >
@@ -101,7 +101,7 @@
                     <div class="mobile-menu">
                         <nav class="menu-box">
                             <div class="close-btn"><i class="far fa-times"></i></div>
-                            <div class="nav-logo"><a href="index.html"><img src="assets/img/logo/w_special_logo.png" alt="" title=""></a></div>
+                            <div class="nav-logo"><a href="index.html"><img src="assets/img/logo/bg.png" alt="" title=""></a></div>
                             <div class="menu-outer">
                                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                             </div>
